@@ -1,5 +1,5 @@
 'use strict';
-
+alert("app")
 angular.module('phonertcdemo', ['ionic', 
                                 'ui.router', 
                                 'config',
