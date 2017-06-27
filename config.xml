@@ -9,6 +9,7 @@
     </author>
     <content src="index.html#/app/test" />
     <plugin name="cordova-plugin-whitelist" version="1" />
+    <plugin spec="https://github.com/alongubkin/phonertc.git" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
