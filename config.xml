@@ -9,7 +9,7 @@
     </author>
     <content src="index.html#/app/test" />
     <plugin name="cordova-plugin-whitelist" version="1" />
-    <plugin name="phonertc-pg" />
+    <plugin name="cordova-plugin-phonertc" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
